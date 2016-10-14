@@ -1,13 +1,3 @@
-/**
- * 
- * Webcam feature
- * 
- * Require : jQuery library
- * 
- * by Indra Sutriadi Pipii 2013
- * 
- */
-
 var scan_available = false;
 var socket = null;
 var part = 0;
