@@ -1,0 +1,15 @@
+C:\Users\Asus\AppData\Local\Temporary Projects\ScannerAdapter\obj\x86\Release\Interop.WIA.dll
+C:\Users\Asus\AppData\Local\Temporary Projects\ScannerAdapter\obj\x86\Release\ScannerAdapter.csproj.ResolveComReference.cache
+C:\Users\Asus\AppData\Local\Temporary Projects\ScannerAdapter\obj\x86\Release\ScannerAdapter.Form1.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\ScannerAdapter\obj\x86\Release\ScannerAdapter.Properties.Resources.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\ScannerAdapter\obj\x86\Release\ScannerAdapter.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\ScannerAdapter\ScannerAdapter\bin\Release\ScannerAdapter.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\ScannerAdapter\ScannerAdapter\bin\Release\ScannerAdapter.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\ScannerAdapter\ScannerAdapter\bin\Release\Fleck.dll
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\ScannerAdapter\ScannerAdapter\obj\x86\Release\Interop.WIA.dll
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\ScannerAdapter\ScannerAdapter\obj\x86\Release\ScannerAdapter.csproj.ResolveComReference.cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\ScannerAdapter\ScannerAdapter\obj\x86\Release\ScannerAdapter.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\ScannerAdapter\ScannerAdapter\obj\x86\Release\ScannerAdapter.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\ScannerAdapter\ScannerAdapter\obj\x86\Release\ScannerAdapter.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\ScannerAdapter\ScannerAdapter\obj\x86\Release\ScannerAdapter.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\ScannerAdapter\ScannerAdapter\obj\x86\Release\ScannerAdapter.pdb
